@@ -39,8 +39,10 @@ Processo Seletivo
 
 ## Observações
 - O foco principal do projeto está na implementação em JAVA com Spring
-- A ordenação foi implementada tanto no frontend quanto no backend
-- A paginação foi implementada tanto no frontend quanto no backend
+- Paginação do SPRING funciona para tudo (Usei Page)
+- Ordenação do SPRING funciona para tudo (Usei PAGE)
+- Usei MATERIAL UI para Ordenar no front
+- A ordenação e paginação foi implementada tanto no frontend quanto no backend
 
 ## IDEs Utilizadas
 - Visual Studio Code (VSCode)
