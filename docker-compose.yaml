@@ -1,0 +1,13 @@
+version: '1.0'
+
+services:
+  spring-app:
+    build: ./projeto_sqlite
+    ports: 
+      - "8080:8080"
+  services:
+  front:
+    build: .
+    ports:
+      - "4200:4200"
+    command: ["npm", "start"]
