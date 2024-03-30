@@ -18,6 +18,10 @@ Processo Seletivo
 3. Execute o comando `mvn clean install` para instalar as dependências do Maven
 4. Execute o comando `mvn spring-boot:run` para iniciar o servidor Spring Boot
 
+### Endpoints e Swagger UI
+1.  Pode fazer a importação da coleção no POSTMAN e testar os endpoints
+2.  Ou usar o caminho http://localhost:8080/swagger-ui/index.html
+
 ### React
 1. Clone o repositório do projeto
 2. Navegue até a pasta `frontend` do projeto
@@ -50,3 +54,6 @@ Processo Seletivo
 
 ## Dockerização :(
 - Ainda não implementada.
+
+### IMAGEM ILUSTRATIVA
+![Projeto](https://github.com/aglayrton/COTEC-JAVA/blob/main/projeto.jpeg)
