@@ -53,7 +53,8 @@ Processo Seletivo
 - IntelliJ IDEA
 
 ## Dockerização :(
-- Ainda não implementada.
+- Spring Java Docker.
+- React não implementada.
 
 ### IMAGEM ILUSTRATIVA
 ![Projeto](https://github.com/aglayrton/COTEC-JAVA/blob/main/projeto.jpeg)
